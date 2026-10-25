@@ -13,5 +13,5 @@ Copy the corresponding code from your uploaded file into each Java file and pres
 Open HospitalManagementSystem.java → right-click → Run As → Java Application.
 Enter your choices in the Console and press Enter.
 
-**NAME** : SANTHANAKRISHNAN G
-**Reg.No** : 717825Y147
+**NAME** : NABIGESH R
+**Reg.No** : 717825Y129
